@@ -1,2 +1,2 @@
-console.log("This is us!");
-window.alert(5 + 6);
+console.log("Modified!");
+window.alert(5 + 5 + 2);
